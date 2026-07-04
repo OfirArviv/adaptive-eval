@@ -1,0 +1,17 @@
+numpy
+scipy
+requests
+datasets
+python-dotenv
+matplotlib
+openpyxl
+rpy2<3.6
+
+diskcache
+
+pydantic
+huggingface_hub
+pandas
+pyarrow
+pingouin
+tqdm

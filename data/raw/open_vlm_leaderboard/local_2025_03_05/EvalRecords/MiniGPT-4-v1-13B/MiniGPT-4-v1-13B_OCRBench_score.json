@@ -1,0 +1,9 @@
+{
+    "Text Recognition": 97,
+    "Scene Text-centric VQA": 49,
+    "Doc-oriented VQA": 14,
+    "Key Information Extraction": 0,
+    "Handwritten Mathematical Expression Recognition": 0,
+    "Final Score": 160,
+    "Final Score Norm": 16.0
+}
