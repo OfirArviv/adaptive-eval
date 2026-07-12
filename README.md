@@ -4,7 +4,7 @@
 
 **Stop Guessing When to Stop Testing: Efficient Model Evaluation with Just Enough Data**
 
-Paper PDF: [Stop Guessing When to Stop Testing: Efficient Model Evaluation with Just Enough Data](https://arxiv.org/abs/2607.08522)
+Paper: [Stop Guessing When to Stop Testing: Efficient Model Evaluation with Just Enough Data](https://arxiv.org/abs/2607.08522)
 
 ## Abstract
 
